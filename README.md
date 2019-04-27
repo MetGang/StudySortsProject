@@ -16,7 +16,7 @@ Konfiguracja sprzętu:
 * 512GB SSD
 * System operacyjny Windows 10 Home
 
-Skompilowany za pomocą `gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0` w standardzie C99. Użyto funckji `rand` pochodzącej z biblioteki standardowej języka C do generowania liczb w tablicy.
+Skompilowany za pomocą `gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0` w standardzie C99. Użyto funkcji `rand` pochodzącej z biblioteki standardowej języka C do generowania liczb w tablicy.
 
 **Random** - tablica elementów o losowej kolejności  
 **Asc** - tablica posortowana rosnąco  
