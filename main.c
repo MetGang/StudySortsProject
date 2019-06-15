@@ -194,7 +194,7 @@ void HeapSort(int* array, int size)
     {
         Swap(array + i, array + 0);
     
-        BuildMaxHeap(array, i);	
+        MaxHeapify(array, i - 1, 0);
     }
 }
 
